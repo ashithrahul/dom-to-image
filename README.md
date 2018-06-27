@@ -1,3 +1,5 @@
+* Forked on 6/26/18 and added ability for SVG `<use>` to clone its shadow DOM child.
+
 # DOM to Image
 
 [![Build Status](https://travis-ci.org/tsayen/dom-to-image.svg?branch=master)](https://travis-ci.org/tsayen/dom-to-image)
